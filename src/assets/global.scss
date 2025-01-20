@@ -1,0 +1,10 @@
+@forward "variables";
+@use "variables" as *;
+
+body {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothings: grayscale;
+  text-align: center;
+  color: $text-primary;
+}

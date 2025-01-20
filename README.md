@@ -1,0 +1,3 @@
+# spend-smart
+
+SpendSmart provides consumers with a visually beautiful and user-friendly interface for tracking their money habits. Vue.js was used in the development of the application, which uses local storage to save user data. Users can input daily expenses, switch between monthly and annual views, and get AI-generated recommendations on how to optimize their spending patterns based on their financial information. This project demonstrates the integration of AI as a value-added element while making financial tracking easy, efficient, and entertaining.
